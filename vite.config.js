@@ -18,3 +18,10 @@ export default defineConfig({
     },
   },
 })
+
+// ...
+export default defineConfig({
+  base: '/new-theory_vue-todo-app_composition-api/',
+
+  // ...
+});
